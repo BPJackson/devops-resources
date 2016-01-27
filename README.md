@@ -1,2 +1,0 @@
-# DevOps-resources
-# devops-resources
